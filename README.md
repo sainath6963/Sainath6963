@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sainath Balkawade</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainath6963&label=Profile%20views&color=0e75b6&style=flat" alt="sainath6963" /> </p>
 
